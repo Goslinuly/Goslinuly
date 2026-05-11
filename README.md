@@ -6,17 +6,16 @@
 </p>
 
 <p align="center">
-  <a href="mailto:dauletkannursultan@gmail.com">📧 dauletkannursultan@gmail.com</a> ·
   <a href="https://t.me/Goslinuly">✈️ @Goslinuly</a>
 </p>
 
 ---
 
-Начинающий разработчик и AI-энтузиаст. Строю Telegram-ботов с ChatGPT/Claude API, пишу промпты для AI-ассистентов, создаю веб-приложения на React и Flask. Участвую в хакатонах, активно изучаю AI-автоматизацию.
+Hey girl. I know you came here looking for a senior dev with 10 years of experience and a Stanford degree. I'm just a guy from Almaty who talks to AI for a living and somehow it works. I build Telegram bots with ChatGPT/Claude API, craft prompts like Ryan crafts looks, ship React apps, and write Flask backends. I've shipped real client websites, survived hackathons, and I only cry a little when PostgreSQL throws an error. I'm not the hero you deserve. But I'm the one who will actually push to main.
 
 ---
 
-## 🛠 Навыки
+## 🛠 Skills
 
 **AI & Prompt Engineering**
 
@@ -25,7 +24,7 @@
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 
-**Разработка**
+**Development**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -35,7 +34,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
-**Инструменты**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -44,60 +43,60 @@
 
 ---
 
-## 🚀 Проекты
+## 🚀 Projects
 
 ### Task Tracker
-> React SPA для управления задачами с дашбордом статистики, фильтрацией и кастомными хуками.
+> React SPA for task management with a stats dashboard, filtering, and custom hooks.
 
-- Архитектура: Context API, Custom Hooks (`useFetch`, `useForm`, `useFilter`, `useModal`)
-- Mock API, покрытие тестами (Jest + Testing Library)
-- Компоненты: TaskTable, TaskDialog, StatsGrid, Notification, DeleteModal
-- Роутинг: React Router (Dashboard / Tasks / Profile)
+- Architecture: Context API, Custom Hooks (`useFetch`, `useForm`, `useFilter`, `useModal`)
+- Mock API, test coverage with Jest + Testing Library
+- Components: TaskTable, TaskDialog, StatsGrid, Notification, DeleteModal
+- Routing: React Router (Dashboard / Tasks / Profile)
 
-**Стек:** `React` `React Router` `Context API` `Jest` `CSS Modules`
+**Stack:** `React` `React Router` `Context API` `Jest` `CSS Modules`
 
 ---
 
-### STRATA — проектирование и инжиниринг
-> Корпоративный сайт ведущей казахстанской проектной компании. Двуязычный интерфейс (RU/EN), адаптивная вёрстка, UI-компоненты.
+### STRATA — Design & Engineering
+> Corporate website for a leading Kazakhstani engineering firm. Bilingual UI (RU/EN), responsive layout, custom components.
 
 🔗 [new.strata.kz](https://new.strata.kz)
 
-**Стек:** `React` `i18n` `Responsive Design`
+**Stack:** `React` `i18n` `Responsive Design`
 
 ---
 
-### ARISTAN — генподряд и fit-out
-> Сайт строительной компании. Страницы услуг, секции с проектами, форма обратной связи.
+### ARISTAN — General Contracting & Fit-out
+> Website for a construction company. Service pages, project showcase sections, contact form.
 
 🔗 [new.aristan.kz](https://new.aristan.kz)
 
-**Стек:** `HTML` `CSS` `JavaScript`
+**Stack:** `HTML` `CSS` `JavaScript`
 
 ---
 
-### inVision U — портал приёмной комиссии
-> Веб-приложение для абитуриентов университета с формами подачи заявки и информационными блоками.
+### inVision U — Admissions Portal
+> Web app for university applicants with application forms and info sections.
 
 🔗 [invision-u-seven.vercel.app](https://invision-u-seven.vercel.app)
 
-**Стек:** `React` `Tailwind CSS`
+**Stack:** `React` `Tailwind CSS`
 
 ---
 
-## 🎓 Образование
+## 🎓 Education
 
-**Международный университет информационных технологий (МУИТ)**
-Бакалавр, Разработка программного обеспечения · GPA 3.0
+**International University of Information Technologies (IUIT)**
+Bachelor's, Software Engineering · GPA 3.0
 
-**Курсы:** AWS Storage · Python Data Structures · Algorithmic Toolbox · English for IT
+**Courses:** AWS Storage · Python Data Structures · Algorithmic Toolbox · English for IT
 
 ---
 
-## 🌐 Языки
+## 🌐 Languages
 
-| Язык | Уровень |
+| Language | Level |
 |---|---|
-| Казахский | Родной |
-| Русский | Свободно |
-| Английский | Технический (чтение, переписка) |
+| Kazakh | Native |
+| Russian | Fluent |
+| English | Technical (reading, written communication) |
