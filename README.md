@@ -1,17 +1,17 @@
-<h1 align="center">Nursultan Dauletkan</h1>
+<h1 align="center">Software Engineer</h1>
 
 <p align="center">
   <b>Prompt Engineer · Web Developer · QA</b><br>
-  Almaty, Kazakhstan
+  Location: [Redacted]
 </p>
 
 <p align="center">
-  <a href="https://t.me/Goslinuly">✈️ @Goslinuly</a>
+  Contact: [Redacted]
 </p>
 
 ---
 
-Hey girl. I know you came here looking for a senior dev with 10 years of experience and a Stanford degree. I'm just a guy from Almaty who talks to AI for a living and somehow it works. I build Telegram bots with ChatGPT/Claude API, craft prompts like Ryan crafts looks, ship React apps, and write Flask backends. I've shipped real client websites, survived hackathons, and I only cry a little when PostgreSQL throws an error. I'm not the hero you deserve. But I'm the one who will actually push to main.
+Experienced software developer focusing on AI prompt engineering, web application development, and quality assurance. Builds Telegram bots, React applications, and Python backends using modern tooling and API integrations.
 
 ---
 
@@ -48,8 +48,8 @@ Hey girl. I know you came here looking for a senior dev with 10 years of experie
 ### Task Tracker
 > React SPA for task management with a stats dashboard, filtering, and custom hooks.
 
-- Architecture: Context API, Custom Hooks (`useFetch`, `useForm`, `useFilter`, `useModal`)
-- Mock API, test coverage with Jest + Testing Library
+- Architecture: Context API, custom hooks (`useFetch`, `useForm`, `useFilter`, `useModal`)
+- Mock API and test coverage with Jest + Testing Library
 - Components: TaskTable, TaskDialog, StatsGrid, Notification, DeleteModal
 - Routing: React Router (Dashboard / Tasks / Profile)
 
@@ -58,27 +58,21 @@ Hey girl. I know you came here looking for a senior dev with 10 years of experie
 ---
 
 ### STRATA — Design & Engineering
-> Corporate website for a leading Kazakhstani engineering firm. Bilingual UI (RU/EN), responsive layout, custom components.
-
-🔗 [new.strata.kz](https://new.strata.kz)
+> Corporate website for a Kazakhstani engineering firm with a bilingual responsive UI.
 
 **Stack:** `React` `i18n` `Responsive Design`
 
 ---
 
 ### ARISTAN — General Contracting & Fit-out
-> Website for a construction company. Service pages, project showcase sections, contact form.
-
-🔗 [new.aristan.kz](https://new.aristan.kz)
+> Website for a construction company with service pages, project showcases, and contact UI.
 
 **Stack:** `HTML` `CSS` `JavaScript`
 
 ---
 
 ### inVision U — Admissions Portal
-> Web app for university applicants with application forms and info sections.
-
-🔗 [invision-u-seven.vercel.app](https://invision-u-seven.vercel.app)
+> Web app for university applicants with application forms and information pages.
 
 **Stack:** `React` `Tailwind CSS`
 
@@ -86,8 +80,7 @@ Hey girl. I know you came here looking for a senior dev with 10 years of experie
 
 ## 🎓 Education
 
-**International University of Information Technologies (IUIT)**
-Bachelor's, Software Engineering · GPA 3.0
+Bachelor's in Software Engineering
 
 **Courses:** AWS Storage · Python Data Structures · Algorithmic Toolbox · English for IT
 
@@ -99,4 +92,4 @@ Bachelor's, Software Engineering · GPA 3.0
 |---|---|
 | Kazakh | Native |
 | Russian | Fluent |
-| English | Technical (reading, written communication) |
+| English | Technical |
