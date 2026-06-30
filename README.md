@@ -1,17 +1,17 @@
-<h1 align="center">Software Engineer</h1>
+<h1 align="center">Nursultan Dauletkan</h1>
 
 <p align="center">
   <b>Prompt Engineer · Web Developer · QA</b><br>
-  Location: [Redacted]
+  Almaty, Kazakhstan
 </p>
 
 <p align="center">
-  Contact: [Redacted]
+  <a href="https://t.me/Goslinuly">✈️ @Goslinuly</a>
 </p>
 
 ---
 
-Experienced software developer focusing on AI prompt engineering, web application development, and quality assurance. Builds Telegram bots, React applications, and Python backends using modern tooling and API integrations.
+Hey girl. I know you came here looking for a senior dev with 10 years of experience and a Stanford degree. I'm just a guy from Almaty who talks to AI for a living and somehow it works. I build Telegram bots with ChatGPT/Claude API, craft prompts like Ryan crafts looks, ship React apps, and write Flask backends. I've shipped real client websites, survived hackathons, and I only cry a little when PostgreSQL throws an error. I'm not the hero you deserve. But I'm the one who will actually push to main.
 
 ---
 
