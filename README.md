@@ -1,84 +1,123 @@
 <h1 align="center">Nursultan Dauletkan</h1>
 
 <p align="center">
-  <b>Prompt Engineer · Web Developer · QA</b><br>
+  <b>DevOps · Backend Engineer</b><br>
   Almaty, Kazakhstan
 </p>
 
 <p align="center">
-  <a href="https://t.me/Goslinuly">✈️ @Goslinuly</a>
+  <a href="https://t.me/Goslinuly">Telegram @Goslinuly</a> ·
+  <a href="https://hackathon.kz">hackathon.kz</a>
 </p>
 
 ---
 
-Hey girl. I know you came here looking for a senior dev with 10 years of experience and a Stanford degree. I'm just a guy from Almaty who talks to AI for a living and somehow it works. I build Telegram bots with ChatGPT/Claude API, craft prompts like Ryan crafts looks, ship React apps, and write Flask backends. I've shipped real client websites, survived hackathons, and I only cry a little when PostgreSQL throws an error. I'm not the hero you deserve. But I'm the one who will actually push to main.
+Hey girl. I know you came here looking for a senior SRE with 10 years of on-call trauma and a MIT degree. I'm just a guy from Almaty who said "it works on my machine" one too many times, so now I ship the machine. In a Docker container. With a Jenkinsfile.
+
+I'm just DevOps. Anywhere else I'd be a 10. 🩷
+
+By day I run [hackathon.kz](https://hackathon.kz), the home of every hackathon in Kazakhstan, and handle the 3 AM fixes nobody thanks me for. When production catches fire I sit in the middle of it, sip my coffee and say "this is fine". Then I actually fix it, add a test, and make sure it never happens again.
+
+I don't always test my code. But when I do, it's 180+ pytest tests, Playwright on every page and a fuzzer pointed at my own production API. I'm literally him.
 
 ---
 
-## 🛠 Skills
+## What I do
 
-**AI & Prompt Engineering**
+**Infrastructure and DevOps**
+- CI/CD pipelines in Jenkins: checkout, build, test, Docker image build and run, credentials from the Jenkins store
+- Docker and Docker Compose for local and production setups, multi-service projects
+- Deploys on Railway: web service, Telegram bot, cron workers, PostgreSQL, persistent volumes
+- Cloudflare in front of the API: own subdomain, DNS, proxy and cache rules
+- Database backups and restore scripts with checksums and row-count verification
+- Linux and Bash scripting, system reports, automation
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D4A574?style=flat&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+**Backend**
+- Python: FastAPI, SQLAlchemy 2, Alembic migrations, Flask, pytest
+- Java: Spring Boot 3, Gradle, REST APIs with PostgreSQL
+- PostgreSQL: schema design, migrations, query tuning, JSON columns
+- Telegram bots on aiogram, integrations with the GitHub API and LLM APIs (Claude, OpenAI)
+- Security basics: OAuth with one-time state, SSRF-safe fetchers, rate limits, CSRF, open-redirect fixes, fuzz testing of public endpoints
 
-**Development**
+**Testing and quality**
+- pytest suites, end-to-end and visual checks with Playwright
+- Mutation-style fuzzing of production endpoints, layout-shift and mobile checks before every release
+
+---
+
+## Stack
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat&logo=telegram&logoColor=white)
+
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### Task Tracker
-> React SPA for task management with a stats dashboard, filtering, and custom hooks.
+### [hackathon.kz](https://hackathon.kz)
+The platform with every hackathon in Kazakhstan: event catalog, team registration and a Telegram bot for participants.
 
-- Architecture: Context API, custom hooks (`useFetch`, `useForm`, `useFilter`, `useModal`)
-- Mock API and test coverage with Jest + Testing Library
-- Components: TaskTable, TaskDialog, StatsGrid, Notification, DeleteModal
-- Routing: React Router (Dashboard / Tasks / Profile)
+### [Student API](https://github.com/Goslinuly/goslinuly-student-api)
+Spring Boot CRUD API with PostgreSQL, Docker Compose and a Jenkins pipeline (build, test, Docker image, verify).
 
-**Stack:** `React` `React Router` `Context API` `Jest` `CSS Modules`
+**Stack:** `Java 17` `Spring Boot 3` `Gradle` `PostgreSQL 16` `Docker Compose` `Jenkins`
 
----
+### [DevOps Lab](https://github.com/Goslinuly/goslinuly-devops)
+Python service with a Dockerfile, Compose setup, Linux system report script and a Jenkins pipeline from checkout to running container.
 
-### STRATA — Design & Engineering
-> Corporate website for a Kazakhstani engineering firm with a bilingual responsive UI.
+**Stack:** `Python` `Docker` `Jenkins` `Bash`
 
-**Stack:** `React` `i18n` `Responsive Design`
+### [MedRate](https://github.com/Goslinuly/MedRate)
+Turns clinic price lists in any format (Excel, PDF, Word, scanned photos, Russian and Kazakh) into one searchable database.
 
----
-
-### ARISTAN — General Contracting & Fit-out
-> Website for a construction company with service pages, project showcases, and contact UI.
-
-**Stack:** `HTML` `CSS` `JavaScript`
+**Stack:** `Python` `FastAPI` `Gemini API` `pdfplumber` `pandas` `TypeScript`
 
 ---
 
-### inVision U — Admissions Portal
-> Web app for university applicants with application forms and information pages.
+## Work projects
 
-**Stack:** `React` `Tailwind CSS`
+- **Aviation sourcing platform** · B2B procurement workflow for aviation parts (closed pilot): backend, workspace, WhatsApp integration
+- **Vivid CRM** · PWA for automotive parts sales: smart pricing, WhatsApp inbox, notifications, virtual PBX
+- **Plait (QR-cafe)** · QR menu and restaurant system: guest menu, staff panel, real-time kitchen board
+- **School olympiads catalog** · catalog of school olympiads in Kazakhstan with calendar, practice tasks and reminders (diploma project)
+- **QADAM** · platform where students, developers and founders find teammates and projects
+- **Aqmamyq Luxe Linen** · company website on Express, hosted on Railway
+- **Volunteer platform** · volunteer management with three roles, moderation, events and hours tracking (Node.js, Express, SQLite, JWT)
+- **2GIS parser** · collects Almaty companies across 26 categories, deduplicates and exports to Excel
 
 ---
 
-## 🎓 Education
+## Hackathons
+
+Team **Hahathon Devs**
+
+- **NASA Space Apps** · *Martian Map*: interactive guide across the whole map of Mars with route planning (FastAPI, PostGIS, Celery, React, Docker Compose)
+- **Decentrathon 6.0** · *Soup Kernel Challenge*: custom Triton kernels for LoRA fine-tuning of Qwen2.5-1.5B on a free Kaggle T4, 1.6–1.7x faster and 4.9x less memory
+- **HACKALEM AI 2026** · AI shopping assistant for an electrical goods retailer: catalog search, specs, stock, analogs and cart checks on PostgreSQL
+- **NU Hackathon** · participant with *TechVision*: Aqıqat, a Telegram bot against misinformation in Kazakh and Russian that explains manipulation techniques instead of a bare "fake" verdict
+- **Organizer side** · [hackathon.kz](https://hackathon.kz)
+
+---
+
+## Education
 
 Bachelor's in Software Engineering
 
@@ -86,7 +125,7 @@ Bachelor's in Software Engineering
 
 ---
 
-## 🌐 Languages
+## Languages
 
 | Language | Level |
 |---|---|
